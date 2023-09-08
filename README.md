@@ -16,7 +16,7 @@ You should start by going to your home folder,
 once you find it search for a folder called "sgoinfre"
 create a folder called B2B or your name of preference.
 
-Exemple
+Exemple:
 ![Exemple 1](Example1.png)
 
 #### Checkpoint 1/4---Next...
