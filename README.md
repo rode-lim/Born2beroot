@@ -1,4 +1,5 @@
 # Born2beroot
+![b2b](b2b.png)
 This is how to build a virtual machine using debian and coding it for the 42 project Born2beroot
 ==Requirements==
 - Virtual Box
