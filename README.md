@@ -13,6 +13,7 @@ create a folder called B2B or your name of preference.
 Exemple
 ![Exemple 1](Example1.png)
 
+#### Next...
 Now you should open the app Oracle VM Virtualbox Manager
 as ur starting it should have a penguin:
 ![Exemple2](Exemple2.png)
