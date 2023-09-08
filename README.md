@@ -10,4 +10,5 @@ You should start by going to your home folder,
 once you find it search for a folder called "sgoinfre"
 create a folder called B2B or your name of preference.
 
-Example->
+Example
+![Imagem 1](2023-09-08 21-51-35.png)
