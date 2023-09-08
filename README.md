@@ -34,11 +34,11 @@ Make sure you follow the pictures if u are not trying to get the bonus, in case 
 #### Placing the System...
 Make sure u follow the pictures and read the images.
 Press to open the settings (ORANGE GEAR)
-![Exemple8](Example8.png)
+![Exemple8](Exemple8.png)
 Press storage from the left bar
-![Exemple9](Example9.png)
+![Exemple9](Exemple9.png)
 Press the empty disk under Controller IDE
-![Exemple10](Example10.png)
+![Exemple10](Exemple10.png)
 Press the Blue disk at the right of "Optical Drive:" and pick "Choose disk file..."
 After finding the right ISO file (List of requirements) press to open it.
 ![Exemple11](Example11.png)
