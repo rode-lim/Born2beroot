@@ -10,5 +10,9 @@ You should start by going to your home folder,
 once you find it search for a folder called "sgoinfre"
 create a folder called B2B or your name of preference.
 
-Example
-![Imagem 1](2023-09-08 21-51-35.png)
+Exemple
+![Exemple 1](Example1.png)
+
+Now you should open the app Oracle VM Virtualbox Manager
+as ur starting it should have a penguin:
+![Exemple2](Exemple2.png)
