@@ -52,4 +52,5 @@ Now press ok and go back to the main page.
 ###  🐲2nd - Installing the system
 
 ==START THE MACHINE==
+
 PRESS THE GREEN ARROW POINTING TO THE RIGHT (while having your project selected)
