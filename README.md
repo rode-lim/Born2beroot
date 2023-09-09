@@ -1,5 +1,5 @@
 # Born2beroot
-![b2b](b2bs.png)
+![b2b](B2BRoot.png)
 
 
 This is how to build a virtual machine using debian and coding it for the 42 project Born2beroot
